@@ -5,9 +5,9 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · paqs2196</sub></p>
 <h1>Paquito Espiritu</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>Web Developer & Designer</h2>
+<p>Learning full stack dev · Currently: React + Node</p>
+<p><strong>Front-End Developer & Designer | Full Stack in Progress</strong></p>
 
 <p><a href="https://github.com/paqs2196">GitHub</a></p>
 </td>
